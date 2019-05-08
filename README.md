@@ -1,5 +1,5 @@
 # Tenjin_GM_Extension
-This is our attempt at a Game Maker extension for integrating Tenjin (https://github.com/tenjin/tenjin-ios-sdk) into your GM project. Unfortunately our Obj-C skills weren't solid enough to take it all the way.
+This is our attempt at a Game Maker extension for integrating Tenjin (https://github.com/tenjin/tenjin-ios-sdk) into your GMS2 iOS project. Unfortunately our Obj-C skills weren't solid enough to take it all the way.
 
 The code includes a full test project with buttons to test the commands. The commands implemented are:
 * init
